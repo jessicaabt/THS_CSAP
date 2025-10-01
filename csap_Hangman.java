@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Abt_Hangman{
+public class csap_Hangman{
     static int attemptsRemaining = 10; //if guess is incorrect (indexOf = -1)
     public static void main(String[] args) throws Exception{
         String playerGuess = ""; //getValidGuess method
