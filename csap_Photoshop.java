@@ -10,7 +10,7 @@ import java.lang.reflect.*;
  * For this assignment, you need to fill in the blank
  * methods at the end that say "YOUR CODE GOES HERE!"
  */
-public class Photoshop implements ActionListener {
+public class csap_Photoshop implements ActionListener {
     /**
      * These class variables are accessible in every method
      * You'll only need to modify image for this assignment
